@@ -33,3 +33,5 @@
   - Method Type: post
   - Response example: {"phone": "1111111111"} if number requested number is avaiable then it will return same number otherwise it will allot any uniq available random number.
     
+## Run the test cases
+  ###### run the `rails test`
